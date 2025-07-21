@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/jira-dashboard-pro-17b62b96/backend_api"
+}
